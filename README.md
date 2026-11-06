@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16325c,100:2f6aa8&height=180&section=header&text=Mohammed%20Djenadi&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=AI%20student%20at%20JKU%20Linz%20%C2%B7%20machine%20learning%20%26%20computer%20vision&descAlignY=58&descSize=17" width="100%" alt="Mohammed Djenadi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16325c,100:2f6aa8&height=180&section=header&text=Mohammed%20Djenadi&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=AI%20student%20at%20JKU%20Linz%20%C2%B7%20machine%20learning%20and%20computer%20vision&descAlignY=58&descSize=17" width="100%" alt="Mohammed Djenadi" />
 
 <a href="https://www.linkedin.com/in/mohammeddjenadi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://huggingface.co/Ab1231"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
